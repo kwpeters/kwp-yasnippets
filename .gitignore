@@ -1,0 +1,6 @@
+# Mac OS X files that are not needed.
+*.DS_Store
+
+# IDE specific Files
+.idea
+.settings
